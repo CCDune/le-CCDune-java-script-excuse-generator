@@ -3,3 +3,11 @@
 body{
     background: white;
 }
+
+#excuse{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    background-color: lightyellow;
+    color: darkred;
+}
